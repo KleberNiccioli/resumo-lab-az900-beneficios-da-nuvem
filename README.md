@@ -1,4 +1,4 @@
-A computação em nuvem, especialmente com o Azure, oferece inúmeros benefícios para empresas de todos os tamanhos. Aqui estão alguns pontos principais:
+A computação em nuvem, especialmente com o Azure, oferece inúmeros benefícios para empresas de todos os tamanhos. Alguns pontos principais:
 Escalabilidade: O Azure permite que você escale seus recursos de acordo com a demanda. Isso significa que você pode aumentar ou diminuir a capacidade de computação e armazenamento sem necessidade de comprar hardware adicional.
 Elasticidade: A elasticidade é a capacidade de ajustar automaticamente os recursos com base nas necessidades atuais. O Azure pode, automaticamente, provisionar ou desprovisionar recursos conforme a carga de trabalho varia, garantindo eficiência e economia.
 Confiabilidade: O Azure oferece alta disponibilidade e recuperação de desastres com seus data centers distribuídos globalmente. Isso garante que seus serviços estejam sempre disponíveis e que os dados sejam protegidos contra perdas.
